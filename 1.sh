@@ -165,20 +165,20 @@
 # 40-49 -> Grade D
 # 0-39 -> Grade E
 
-echo "Enter marks:"
-read marks
+# echo "Enter marks:"
+# read marks
 
-case $marks in
-    8[0-9]|9[0-9]|100)
-        echo "Grade A";;
-    6[0-9]|7[0-9])
-        echo "Grade B";;
-    5[0-9])
-        echo "Grade C";;
-    4[0-9])
-        echo "Grade D";;
-    [0-3][0-9])
-        echo "Grade E";;
-    *)
-        echo "Invalid marks";;
-esac
+# case $marks in
+#     8[0-9]|9[0-9]|100)
+#         echo "Grade A";;
+#     6[0-9]|7[0-9])
+#         echo "Grade B";;
+#     5[0-9])
+#         echo "Grade C";;
+#     4[0-9])
+#         echo "Grade D";;
+#     [0-3][0-9])
+#         echo "Grade E";;
+#     *)
+#         echo "Invalid marks";;
+# esac
