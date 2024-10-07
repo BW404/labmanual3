@@ -130,6 +130,7 @@
 
 
 
+
 # check two strings are equal or not
 
 # echo "Enter first string: "
